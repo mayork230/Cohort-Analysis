@@ -21,4 +21,44 @@ In the initial data preperation phase, we performed the following tasks:
 1. Data loading and inspection.
 2. Handling missing values.
 3. Data cleaning and formatting.
+## Exploratory Data Analysis
+The business problem we're addressing in this project revolves around customer retention. 
+Specifically:
+- Challenge: Many businesses experience significant customer drop-off shortly after acquisition. Retaining customers over the long term is crucial for driving sustainable growth.
+- Objective: To identify patterns in customer engagement and retention rates over time, helping the business understand where and why customers are disengaging, and how to re-engage them effectively.
+  
+# Here are the steps:
+- Step 1
+  
+Identify the First Purchase Date
+
+Select the CustomerID and the first InvoiceDate.
+
+Create a new column Cohort_Date representing the year and month of the first purchase.
+
+- Step 2
+  
+Create Cohort Index
+
+To track customer behavior over time, we need to create a Cohort_Index, which shows the time elapsed since the customer's first purchase.
+
+Join Data and Create the Index
+
+Add Cohort_Date to the main table by joining it with #Cohort
+
+Calculate the year and month differences between the purchase date and the cohort date.
+
+Create the Cohort_Index,  where 1 represents the first event in the cohort.
+
+- Step 3
+
+Pivot Data for Cohort Analysis
+
+To visualize the retention, we group customers by their Cohort_Index.
+
+Group and Pivot Data
+
+Use the PIVOT function to count the number of customers in each cohort over time.
+
+
 
