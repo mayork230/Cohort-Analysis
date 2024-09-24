@@ -28,7 +28,7 @@ Specifically:
 - Objective: To identify patterns in customer engagement and retention rates over time, helping the business understand where and why customers are disengaging, and how to re-engage them effectively.
   
 # Here are the steps:
-- Step 1
+**Step 1**
   
 Identify the First Purchase Date
 
@@ -36,7 +36,7 @@ Select the CustomerID and the first InvoiceDate.
 
 Create a new column Cohort_Date representing the year and month of the first purchase.
 
-- Step 2
+**Step 2**
   
 Create Cohort Index
 
@@ -50,7 +50,7 @@ Calculate the year and month differences between the purchase date and the cohor
 
 Create the Cohort_Index,  where 1 represents the first event in the cohort.
 
-- Step 3
+**Step 3**
 
 Pivot Data for Cohort Analysis
 
@@ -59,6 +59,30 @@ To visualize the retention, we group customers by their Cohort_Index.
 Group and Pivot Data
 
 Use the PIVOT function to count the number of customers in each cohort over time.
+
+**Step 4**
+
+View the Pivot Table
+
+Now that the cohort pivot table is created, you can visualize it.
+
+**Step 5**
+
+Calculate Retention in Percentage
+
+To better understand the retention rate, convert the pivot table values into percentages.
+
+## Results/Findings
+
+Here is the Dashboard: 
+
+![The Dashboard](
+
+The Cohort Analysis Dashboard provides a visual representation of customer retention rates over time.
+
+The dashboard is divided into two sections: Cohort Retention Rate and Cohort Table.
+
+Let's break down the insights from each part:
 
 
 
