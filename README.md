@@ -74,7 +74,7 @@ To better understand the retention rate, convert the pivot table values into per
 
 ## Results/Findings
 
-Here is the Dashboard: 
+## Cohort Retention Dashboard
 
 ![The Dashboard](https://github.com/mayork230/Cohort-Analysis/blob/main/Dashboard%201(1).png)
 
