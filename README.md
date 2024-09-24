@@ -27,7 +27,7 @@ Specifically:
 - Challenge: Many businesses experience significant customer drop-off shortly after acquisition. Retaining customers over the long term is crucial for driving sustainable growth.
 - Objective: To identify patterns in customer engagement and retention rates over time, helping the business understand where and why customers are disengaging, and how to re-engage them effectively.
   
-# Here are the steps:
+## Here are the steps:
 **Step 1**
   
 Identify the First Purchase Date
@@ -129,6 +129,13 @@ Cohorts from 2010-12 to 2011-02 show a retention boost in later months. Re-engag
 **Product Iteration:**
 
 Analyzing user feedback and making iterative changes to product features could address the needs of users in lower-retention cohorts (e.g., those from mid-2011).
+
+**Limitations**
+Cohort analysis is primarily based on the timing of user acquisition or action. It does not account for other user characteristics such as demographics, preferences, or behavior patterns that may provide deeper insights into retention and engagement.
+
+
+
+
 
 
 
