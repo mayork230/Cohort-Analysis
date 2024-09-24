@@ -72,7 +72,7 @@ Calculate Retention in Percentage
 
 To better understand the retention rate, convert the pivot table values into percentages.
 
-## Results/Findings
+## Key Insights
 
 ## Cohort Retention Dashboard
 
