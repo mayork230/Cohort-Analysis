@@ -135,10 +135,17 @@ Analyzing user feedback and making iterative changes to product features could a
 **Limitations**
 Cohort analysis is primarily based on the timing of user acquisition or action. It does not account for other user characteristics such as demographics, preferences, or behavior patterns that may provide deeper insights into retention and engagement.
 
+**Conclusion**
+The Cohort Retention Analysis provides valuable insights into user behavior and helps businesses focus on improving retention through targeted strategies. By examining user engagement trends over time, businesses can make data-driven decisions that enhance customer satisfaction and foster long-term growth.
+
+
+
 
 Thank you for reading😄
 
+You can connect with me on [Linkedin](https://www.linkedin.com/in/mayowa-kolapo-093574226/)
 
+Cheers!!!! Happy Reading!!!! Happy Learning!!!!
 
 
 
