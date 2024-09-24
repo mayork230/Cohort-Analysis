@@ -1,4 +1,6 @@
-# Online Retail Cohort-Analysis Documentation
+# ![h2s1pr4a](https://github.com/user-attachments/assets/6883115e-439e-4088-8e0b-c39425ce1360)
+
+Online Retail Cohort-Analysis Documentation
 ## Table of Contents
 - [Overview](#Overview)
 - [Data Source](#data-source)
