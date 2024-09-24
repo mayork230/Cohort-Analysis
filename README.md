@@ -7,12 +7,13 @@ Online Retail Cohort-Analysis Documentation
 - [Cohort Retention Dashboard](#cohort-retention-dashboard)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
-- [License](#license)
 - [Conclusion](#conclusion)
+
 ## Overview
 This project involves performing Cohort Analysis to understand customer retention over time. The analysis helps identify patterns in customer behavior, track retention rates, and guide data-driven decisions for improving user engagement and reducing churn.
 
 The dashboard visualizes both Cohort Retention Rates and Cohort Tables, helping businesses see how customer retention evolves month by month across different cohorts.
+
 ## Data Source
 I got this dataset from UCI Machine Learning Repository. The dataset is an Online Retail Store which contains 13 columns. InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice. The original data contains 541,909 rows which after cleaning reduced to *392,669* rows. SQL was used to clean the dataset to remove inconsistencies and irrelevant data. Tableau was used to visualize the final results in chart to derive insights.
 ## Tools Used
@@ -132,10 +133,10 @@ Cohorts from 2010-12 to 2011-02 show a retention boost in later months. Re-engag
 
 Analyzing user feedback and making iterative changes to product features could address the needs of users in lower-retention cohorts (e.g., those from mid-2011).
 
-**Limitations**
+**Limitations:**
 Cohort analysis is primarily based on the timing of user acquisition or action. It does not account for other user characteristics such as demographics, preferences, or behavior patterns that may provide deeper insights into retention and engagement.
 
-**Conclusion**
+## Conclusion:
 The Cohort Retention Analysis provides valuable insights into user behavior and helps businesses focus on improving retention through targeted strategies. By examining user engagement trends over time, businesses can make data-driven decisions that enhance customer satisfaction and foster long-term growth.
 
 
