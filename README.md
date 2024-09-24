@@ -116,7 +116,7 @@ For the 2010–12 cohort, the number of customers gradually decreases from *885*
 
 Other cohorts, especially after 2011–04, experience a much sharper decline in customer numbers, with the number of retained customers dropping below 50 after 6 months for many cohorts.
 
-**Recommendations**
+## Recommendations
 
 Based on the findings from the cohort retention analysis, we recommend the following strategies:
 
