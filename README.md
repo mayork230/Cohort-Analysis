@@ -136,6 +136,8 @@ Analyzing user feedback and making iterative changes to product features could a
 Cohort analysis is primarily based on the timing of user acquisition or action. It does not account for other user characteristics such as demographics, preferences, or behavior patterns that may provide deeper insights into retention and engagement.
 
 
+Thank you for reading😄
+
 
 
 
